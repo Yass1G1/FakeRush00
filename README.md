@@ -1,6 +1,8 @@
 # Fake Rush 01 -- By Yanal and Yassine
 Here is the rush project that we had to do in the 42 C Piscine
 
+*(Unfortunately we both forgot to register to the event so we couldn't obtain a grade for it but it works and its our own code, that's what really matter ;)*)
+
 ## Quick Explanation of how to use it : 
 - Navigate into the `sources/` directory
 - Open the main.c
